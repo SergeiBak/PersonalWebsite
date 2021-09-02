@@ -1,8 +1,8 @@
-# Yusuf Pisan
+# Sergei Bakharev
 
 ## Bio
 
-Yusuf Pisan is a Senior Lecturer in the [Computing & Software Systems Division](https://www.uwb.edu/css) at the [University of Washington Bothell](https://www.uwb.edu/). Previously he was an Associate Professor at the University of Technology, Sydney where he formed and led the [UTS Games Studio](http://www.gamesstudio.org/). He was a visiting professor at Harvey Mudd College, University of Southern California, Worcester Polytechnic Institute (WPI) and IT University of Copenhagen (ITU).
+Sergei Bakharev is a CSS student at the [University of Washington](https://www.uwb.edu/) majoring in [Computer Science & Software Engineering](https://www.uwb.edu/bscsse).
 
 His research interests include enabling technologies for computer games, the design of virtual environments that support collaborative work, and computer science education. He founded the [Australasian Conference on Interactive Entertainment](http://ieconference.org/) conference series and helped foster the Australian games community. His list of publications can be found at [Google Scholar](https://scholar.google.com/citations?user=eCpI_aUAAAAJ&hl=en&oi=ao).
 
