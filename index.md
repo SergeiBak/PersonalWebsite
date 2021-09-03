@@ -6,6 +6,9 @@ Sergei Bakharev is a CSS student at the [University of Washington](https://www.u
 
 His research interests include enabling technologies for computer games, the design of virtual environments that support collaborative work, and computer science education. He founded the [Australasian Conference on Interactive Entertainment](http://ieconference.org/) conference series and helped foster the Australian games community. His list of publications can be found at [Google Scholar](https://scholar.google.com/citations?user=eCpI_aUAAAAJ&hl=en&oi=ao).
 
+OD2A4027_Edit.png
+![Profile Image](https://github.com/SergeiBak/PersonalWebsite/blob/master/images/OD2A4027_Edit.png)
+
 Yusuf has a Ph.D. in Artificial Intelligence from Northwestern University. Before moving to Seattle in 2017, Yusuf lived in Chicago area for 10 years and in Sydney for 20 years.
 
 My [somewhat outdated CV](PisanYusuf-CV.pdf) has additional details.
