@@ -1,7 +1,7 @@
 # Sergei Bakharev
 
 ## Bio
-<kbd><img align="right" width="230.4" height="345.6" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/OD2A4027_Edit.png?raw=true"></kbd>
+<img align="right" width="230.4" height="345.6" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/OD2A4027_Edit.png?raw=true">
 Sergei Bakharev is a CSS student at the [University of Washington](https://www.uwb.edu/) majoring in [Computer Science & Software Engineering](https://www.uwb.edu/bscsse). Previously, he was a full time Running Start student attending [Everett Community College](https://www.everettcc.edu/) for an [Associate in Arts and Sciences Direct Transfer Degree](https://www.everettcc.edu/files/programs/aas-dta-transfer-guide.pdf) during his remaining two years of high school. 
 
 His research interests include enabling technologies for computer games, the design of virtual environments that support collaborative work, and computer science education. He founded the [Australasian Conference on Interactive Entertainment](http://ieconference.org/) conference series and helped foster the Australian games community. His list of publications can be found at [Google Scholar](https://scholar.google.com/citations?user=eCpI_aUAAAAJ&hl=en&oi=ao).
