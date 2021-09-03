@@ -10,19 +10,19 @@ Sergei is projected to graduate with his Bachelor of Science in Computer Science
 
 Always looking to expand connections & network, he is happy to accept connection requests on [LinkedIn](https://www.linkedin.com/in/sergei-bakharev/).
 
-## Research
+## Education
 
 [Research](research.html)
 
 [CSS 497 Capstone](capstone.html) guidelines, advice and [project ideas](capstone-ideas.html). Past [students](./people) I have supervised.
 
-## Teaching
+## Personal
 
 I have taught small classes, large (700-person) classes, first-year classes, graduate level classes, supervised masters and PhD students, experimented with hybrid and online classes, used traditional lecturing, active learning, flipped classrooms, collaborative meaning making and gamified classrooms. I received the [UTS Teaching Award](https://www.uts.edu.au/research-and-teaching/learning-and-teaching/awards-and-citations/past-award-and-citation-0) in 2006.
 
 I have decided to make all my evaluations public to help future students make more informed choices, or at least know what they are getting into when they decide to take a course from me. It also is an interesting and fun historical record! Happy spelunking into my [teaching evaluations](teaching/evaluations/) going back for many many years.
 
-## Resources
+## Projects
 
 Visit [my resources wiki](https://github.com/pisanorg/w/wiki) for all sorts of information from C++ style to UWB Resources
 
