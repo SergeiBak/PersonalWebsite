@@ -49,8 +49,6 @@ Project: [Link](https://sergeibak.github.io/FinalProject385/)
 Brief Overview:  
 *Drone Disowned* is a arcade-style shooter with upgrades and in-game shop developed within the Unity Engine using C#. 
 
-***To be Filled out***
-
 ## Contact
 
 **Email:** bakhara@uw.edu  
