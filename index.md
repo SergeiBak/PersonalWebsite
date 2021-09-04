@@ -35,8 +35,8 @@ With graduation right around the corner, I have become a lot more career oriente
 
 Below is an ongoing list of some of the projects I have worked on and chose to display. For those based in WebGL, I would recommend fullscreening for the best experience.
 
-<img align="right" width="192" height="108" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/ArmedConquest.png?raw=true">
-***Armed Conquest***  
+<img align="right" width="384" height="216" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/ArmedConquest.png?raw=true">
+***Armed Conquest*** - Jun 2021 - Aug 2021  
 Detailed Overview: [Link](https://sites.uw.edu/crcs/projects/2021armed-conquest-a-sci-fi-platform-shooter/)  
 Project: [Link](https://sergeibak.github.io/CapstoneProject/)  
 Brief Overview:  
