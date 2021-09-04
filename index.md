@@ -21,7 +21,7 @@ Always looking to expand connections & network, he is happy to accept connection
 * Attained Associate in Arts and Sciences Direct Transfer Degree with a 3.93 GPA.
 
 **University of Washington** - 2020-2022
-* projected to graduate with Bachelor of Science in Computer Science & Software Engineering in Spring 2022.
+* Projected to graduate with Bachelor of Science in Computer Science & Software Engineering in Spring 2022.
 
 ## Personal
 <img align="right" width="220.4" height="330.6" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/OD2A3943_Edit.png?raw=true">
@@ -33,7 +33,15 @@ With graduation right around the corner, I have become a lot more career oriente
 
 ## Projects
 
-To be Filled out.
+Below is an ongoing list of some of the projects I have worked on and chose to display. For those based in WebGL, I would recommend fullscreening for the best experience.
+
+**Armed Conquest**
+Detailed Overview: [Link](https://sites.uw.edu/crcs/projects/2021armed-conquest-a-sci-fi-platform-shooter/)
+Project: [Link](https://sergeibak.github.io/CapstoneProject/)
+Brief Overview:
+*Armed Conquest* is a sci-fi themed platformer/shooter project developed within the Unity Engine using C#. The goal behind this project was to gain insight/experience into the process of developing a polished vertical slice of a larger system whilst following an iterative/incremental software development life cycle and refining based upon user feedback.
+
+**To be Filled out**
 
 ## Contact
 
