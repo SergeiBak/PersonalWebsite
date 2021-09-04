@@ -42,6 +42,13 @@ Project: [Link](https://sergeibak.github.io/CapstoneProject/)
 Brief Overview:  
 *Armed Conquest* is a sci-fi themed platformer/shooter project developed within the Unity Engine using C#. 
 
+<img align="right" width="276.48" height="155.52" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/DroneDisowned.png?raw=true">
+***Drone Disowned*** - Mar 2021 - Jun 2021  
+Detailed Overview: [Link](https://sites.google.com/uw.edu/dronedisowned/home)  
+Project: [Link](https://sergeibak.github.io/FinalProject385/)  
+Brief Overview:  
+*Drone Disowned* is a arcade-style shooter with upgrades and in-game shop developed within the Unity Engine using C#. 
+
 ***To be Filled out***
 
 ## Contact
