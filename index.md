@@ -34,7 +34,6 @@ With graduation right around the corner, I have become a lot more career oriente
 ## Projects
 
 Below is an ongoing list of some of the projects I have worked on and chose to display. For those based in WebGL, I would recommend fullscreening for the best experience.
----
 
 ***Armed Conquest***  
 Detailed Overview: [Link](https://sites.uw.edu/crcs/projects/2021armed-conquest-a-sci-fi-platform-shooter/)  
