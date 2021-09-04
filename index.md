@@ -35,10 +35,10 @@ With graduation right around the corner, I have become a lot more career oriente
 
 Below is an ongoing list of some of the projects I have worked on and chose to display. For those based in WebGL, I would recommend fullscreening for the best experience.
 
-**Armed Conquest**
-Detailed Overview: [Link](https://sites.uw.edu/crcs/projects/2021armed-conquest-a-sci-fi-platform-shooter/)
-Project: [Link](https://sergeibak.github.io/CapstoneProject/)
-Brief Overview:
+**Armed Conquest**  
+Detailed Overview: [Link](https://sites.uw.edu/crcs/projects/2021armed-conquest-a-sci-fi-platform-shooter/)  
+Project: [Link](https://sergeibak.github.io/CapstoneProject/)  
+Brief Overview:  
 *Armed Conquest* is a sci-fi themed platformer/shooter project developed within the Unity Engine using C#. The goal behind this project was to gain insight/experience into the process of developing a polished vertical slice of a larger system whilst following an iterative/incremental software development life cycle and refining based upon user feedback.
 
 **To be Filled out**
