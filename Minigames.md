@@ -5,7 +5,7 @@
 
 ## 2048
 Project: [Link](2048.html)  
-<img a href="2048.html" width="276.48" height="155.52" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/2048.png?raw=true">
+<img a href="https://sergeibak.github.io/PersonalWebsite/2048.html" width="276.48" height="155.52" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/2048.png?raw=true">
 
 ## Return
 Here is the [link](https://sergeibak.github.io/PersonalWebsite/) to return to the main page.
