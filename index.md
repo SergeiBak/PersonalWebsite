@@ -35,7 +35,11 @@ With graduation right around the corner, I have become a lot more career oriente
 
 Below is an ongoing list of some of the projects I have worked on and chose to display. For those based in WebGL, I would recommend fullscreening for the best experience.
 
-[2048](2048.html)
+<img align="right" width="276.48" height="155.52" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/Minigames.png?raw=true">
+***Minigames Collection*** - Oct 2021 - Present   
+Project: [Link](2048.html)  
+Brief Overview:  
+*Minigames Collection* is a collection of various minigame projects developed within the Unity Engine using C#. 
 
 <img align="right" width="276.48" height="155.52" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/ArmedConquest.png?raw=true">
 ***Armed Conquest*** - Jun 2021 - Aug 2021  
