@@ -6,4 +6,4 @@
 ## 2048
 
 ## Return
-Here is the [link](index.md) to return to the main page.
+Here is the [link](https://sergeibak.github.io/PersonalWebsite/) to return to the main page.
