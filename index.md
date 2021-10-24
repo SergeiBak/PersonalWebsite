@@ -37,11 +37,10 @@ Below is an ongoing list of some of the projects I have worked on and chose to d
 
 <img align="right" width="276.48" height="155.52" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/Minigames.png?raw=true">
 ***Minigames Collection*** - Oct 2021 - Present   
+Detailed Overview: [Link](https://sites.uw.edu/crcs/projects/2021armed-conquest-a-sci-fi-platform-shooter/)  
 Project: [Link](2048.html)  
 Brief Overview:  
 *Minigames Collection* is a collection of various minigame projects developed within the Unity Engine using C#. 
-
-
 
 <img align="right" width="276.48" height="155.52" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/ArmedConquest.png?raw=true">
 ***Armed Conquest*** - Jun 2021 - Aug 2021  
