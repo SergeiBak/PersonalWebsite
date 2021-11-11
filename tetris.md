@@ -28,7 +28,7 @@ To be able to full screen, follow this [link](https://sergeibak.github.io/Tetris
     frameborder="1" 
     marginheight="px" 
     marginwidth="320px" 
-    height="500px" 
+    height="550px" 
     width="600px">
 </iframe>
 </center>   
