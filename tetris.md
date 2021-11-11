@@ -17,11 +17,11 @@ them into lines that get cleared/destroyed whenever a row is full. As the level 
 - **Spacebar**: lock piece    
 
 ## Play The Game!
-To be able to full screen, follow this [link](https://sergeibak.github.io/Tetris/TetrisBuild/) and click the full screen button in bottom right of WebGL Build   
+To be able to full screen, follow this [link](https://sergeibak.github.io/Tetris/TetrisBuild2/) and click the full screen button in bottom right of WebGL Build   
 
 <center>
 <iframe 
-    src="https://sergeibak.github.io/Tetris/TetrisBuild/index.html" 
+    src="https://sergeibak.github.io/Tetris/TetrisBuild2/index.html" 
     style="border:0px #000000 none;" 
     name="HeroTNG" 
     scrolling="no" 
