@@ -44,7 +44,7 @@ To be able to full screen, follow this [link](https://sergeibak.github.io/Tetris
 - Modern Mix
   - Music: “Tetris Song”
   - Artist: Nintendo Switch
-  - Support by | Musical Light | [https://bit.ly/3BpwvOM](https://bit.ly/3BpwvOM)
+  - Support by - Musical Light - [https://bit.ly/3BpwvOM](https://bit.ly/3BpwvOM)
 - Dark Mix 
   - “Tetris (Dark Version)” Myuu
   - Licensed under Creative Commons License
@@ -52,10 +52,10 @@ To be able to full screen, follow this [link](https://sergeibak.github.io/Tetris
 - Trap Mix
   - “TETRIS - Theme Song (Dabrozz Remix)”
   - [https://www.youtube.com/watch?v=FICUzxpX86o](https://www.youtube.com/watch?v=FICUzxpX86o)
-  - Facebook: https://facebook.com/dabrozzpage
-  - Twitter: https://twitter.com/dabrozz 
-  - Soundcloud: https://soundcloud.com/dabrozz 
-  - Instagram: https://instagram.com/dabrozz 
+  - Facebook: [https://facebook.com/dabrozzpage](https://facebook.com/dabrozzpage)
+  - Twitter: [https://twitter.com/dabrozz](https://twitter.com/dabrozz)
+  - Soundcloud: [https://soundcloud.com/dabrozz](https://soundcloud.com/dabrozz)
+  - Instagram: [https://instagram.com/dabrozz](https://instagram.com/dabrozz) 
 - Slav Mix
   - "Padanaya Blokov" Kevin MacLeod (incompetech.com)
   - Licensed under Creative Commons: By Attribution 4.0 License
@@ -63,13 +63,13 @@ To be able to full screen, follow this [link](https://sergeibak.github.io/Tetris
 - Dope Mix
   - “Tetris Theme Song Remix”
   - Remixed by: ThatGuyBT4
-  - www.soundcloud.com/thatguybt4 
-  - www.twitter.com/ThatGuyBT4 
-  - www.youtube.com/ThatGuyBlackTri4orce
+  - [www.soundcloud.com/thatguybt4](www.soundcloud.com/thatguybt4) 
+  - [www.twitter.com/ThatGuyBT4](www.twitter.com/ThatGuyBT4)
+  - [www.youtube.com/ThatGuyBlackTri4orce](www.youtube.com/ThatGuyBlackTri4orce)
 - Drop Mix
   - “Tetris Theme Song (A/B remix)” by R4V3N 
   - Licensed under a  Creative Commons License.
-  - https://soundcloud.com/r4v3n_official/tetris-theme-song-ab-remix 
+  - [https://soundcloud.com/r4v3n_official/tetris-theme-song-ab-remix](https://soundcloud.com/r4v3n_official/tetris-theme-song-ab-remix) 
 - Epic Mix
   - “Tetris Theme (SpookyDove Remix)” SpookyDove
   - [https://www.youtube.com/watch?v=XmLBERukUl4](https://www.youtube.com/watch?v=XmLBERukUl4)
