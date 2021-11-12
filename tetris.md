@@ -33,5 +33,46 @@ To be able to full screen, follow this [link](https://sergeibak.github.io/Tetris
 </iframe>
 </center>   
 
+## Music Credits
+- Menu Music
+  - "Cruising for Goblins" Kevin MacLeod (incompetech.com)
+  - Licensed under Creative Commons: By Attribution 4.0 License
+  - [http://creativecommons.org/licenses/by/4.0/ ](https://creativecommons.org/licenses/by/4.0/)
+- OG Mix
+  - “Tetris Theme” Bogozi
+  - Licensed under [Creative Commons Attribution-ShareAlike 3.0 Unported](https://www.wikidata.org/wiki/Q14946043)
+- Modern Mix
+  - Music: “Tetris Song”
+  - Artist: Nintendo Switch
+  - Support by | Musical Light | [https://bit.ly/3BpwvOM](https://bit.ly/3BpwvOM)
+- Dark Mix 
+  - “Tetris (Dark Version)” Myuu
+  - Licensed under Creative Commons License
+  - [https://soundcloud.com/myuu/tetris-dark-version](https://soundcloud.com/myuu/tetris-dark-version)
+- Trap Mix
+  - “TETRIS - Theme Song (Dabrozz Remix)”
+  - [https://www.youtube.com/watch?v=FICUzxpX86o](https://www.youtube.com/watch?v=FICUzxpX86o)
+  - Facebook: https://facebook.com/dabrozzpage
+  - Twitter: https://twitter.com/dabrozz 
+  - Soundcloud: https://soundcloud.com/dabrozz 
+  - Instagram: https://instagram.com/dabrozz 
+- Slav Mix
+  - "Padanaya Blokov" Kevin MacLeod (incompetech.com)
+  - Licensed under Creative Commons: By Attribution 4.0 License
+  - [http://creativecommons.org/licenses/by/4.0/ ](https://creativecommons.org/licenses/by/4.0/)
+- Dope Mix
+  - “Tetris Theme Song Remix”
+  - Remixed by: ThatGuyBT4
+  - www.soundcloud.com/thatguybt4 
+  - www.twitter.com/ThatGuyBT4 
+  - www.youtube.com/ThatGuyBlackTri4orce
+- Drop Mix
+  - “Tetris Theme Song (A/B remix)” by R4V3N 
+  - Licensed under a  Creative Commons License.
+  - https://soundcloud.com/r4v3n_official/tetris-theme-song-ab-remix 
+- Epic Mix
+  - “Tetris Theme (SpookyDove Remix)” SpookyDove
+  - [https://www.youtube.com/watch?v=XmLBERukUl4](https://www.youtube.com/watch?v=XmLBERukUl4)
+
 ## Minigames Page
 Here is the link to return to the minigames page: [Link](https://sergeibak.github.io/PersonalWebsite/Minigames)
