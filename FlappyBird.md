@@ -22,8 +22,8 @@ To be able to full screen, follow this [link](https://sergeibak.github.io/Flappy
     scrolling="no" 
     frameborder="1" 
     marginheight="px" 
-    marginwidth="320px" 
-    height="550px" 
+    marginwidth="340px" 
+    height="570px" 
     width="600px">
 </iframe>
 </center>   
