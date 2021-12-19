@@ -8,6 +8,11 @@ Oct. 2021
 Project: [Link](2048.html)  
 [<img width="276.48" height="155.52" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/2048.png?raw=true">](https://sergeibak.github.io/PersonalWebsite/2048.html)    
 
+## Flappy Bird
+Dec. 2021   
+Project: [Link](FlappyBird.html)  
+[<img width="276.48" height="155.52" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/flappybird.png?raw=true">](https://sergeibak.github.io/PersonalWebsite/FlappyBird.html) 
+
 ## Tetris
 Nov. 2021   
 Project: [Link](tetris.html)  
