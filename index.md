@@ -35,7 +35,7 @@ With graduation right around the corner, I have become a lot more career oriente
 
 Below is an ongoing list of some of the projects I have worked on and chose to display. For those based in WebGL, I would recommend fullscreening for the best experience.
 
-<img align="right" width="276.48" height="155.52" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/Minigames.png?raw=true">
+<img align="right" width="276.48" height="155.52" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/minigamesSmall.png?raw=true">
 ***Minigames Collection*** - Oct 2021 - Present   
 Ongoing Series!  
 Project: [Link](Minigames.html)  
