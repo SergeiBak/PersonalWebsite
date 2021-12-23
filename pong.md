@@ -27,7 +27,7 @@ To be able to full screen, follow this [link](https://sergeibak.github.io/Pong/P
 
 <center>
 <iframe 
-    src="https://sergeibak.github.io/Pong/PongBuild/index.html" 
+    src="https://sergeibak.github.io/Pong/PongBuild2/index.html" 
     style="border:0px #000000 none;" 
     name="HeroTNG" 
     scrolling="no" 
