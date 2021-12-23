@@ -34,8 +34,8 @@ To be able to full screen, follow this [link](https://sergeibak.github.io/Pong/P
     frameborder="1" 
     marginheight="px" 
     marginwidth="340px" 
-    height="360px" 
-    width="640px">
+    height="540px" 
+    width="960px">
 </iframe>
 </center>   
 
