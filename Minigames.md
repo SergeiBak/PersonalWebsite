@@ -14,7 +14,7 @@ Project: [Link](FlappyBird.html)
 [<img width="276.48" height="155.52" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/flappybird.png?raw=true">](https://sergeibak.github.io/PersonalWebsite/FlappyBird.html) 
 
 ## Pac-Man
-Jan. 2021   
+Jan. 2022   
 Project: [Link](PacMan.html)  
 [<img width="276.48" height="155.52" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/Pacman.png?raw=true">](https://sergeibak.github.io/PersonalWebsite/PacMan.html)  
 
