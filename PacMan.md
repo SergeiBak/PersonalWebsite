@@ -36,7 +36,7 @@ To be able to full screen, follow this [link](https://sergeibak.github.io/Pac-Ma
     frameborder="1" 
     marginheight="px" 
     marginwidth="340px" 
-    height="570px" 
+    height="600px" 
     width="600px">
 </iframe>
 </center>   
