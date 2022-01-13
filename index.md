@@ -45,7 +45,7 @@ Brief Overview:
 <img align="right" width="276.48" height="155.52" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/ArmedConquest.png?raw=true">
 ***Armed Conquest*** - Jun 2021 - Aug 2021  
 Detailed Overview: [Link](https://sites.uw.edu/crcs/projects/2021armed-conquest-a-sci-fi-platform-shooter/)  
-Project: [Link](https://sergeibak.github.io/CapstoneProject/)  
+Project: [Link](https://sergeibak.itch.io/armed-conquest)  
 Brief Overview:  
 *Armed Conquest* is a sci-fi themed platformer/shooter project developed within the Unity Engine using C#. 
 
