@@ -13,6 +13,11 @@ Dec. 2021
 Project: [Link](FlappyBird.html)  
 [<img width="276.48" height="155.52" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/flappybird.png?raw=true">](https://sergeibak.github.io/PersonalWebsite/FlappyBird.html) 
 
+## Minesweeper
+Feb. 2022   
+Project: [Link](Minesweeper.html)  
+[<img width="276.48" height="155.52" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/Minesweeper.png?raw=true">](https://sergeibak.github.io/PersonalWebsite/Minesweeper.html)  
+
 ## Pac-Man
 Jan. 2022   
 Project: [Link](PacMan.html)  
