@@ -1,7 +1,7 @@
 # *Pac-Man*
 
 ## Description
-<img align="right" width="304.128" height="171.072" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/Pacman.png?raw=true">
+<img class="borderimage" align="right" width="304.128" height="171.072" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/Pacman.png?raw=true">
 This project is a recreation of the classic 1980 arcade game known as Pac-Man, with over $14 billion generated in revenue! This solo project was developed in Unity 
 using C# as part of my minigames series where I utilize various resources to remake simple games in order to further my learning as well as to have fun!     
 
