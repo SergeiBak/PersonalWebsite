@@ -24,7 +24,7 @@ Always looking to expand connections & network, he is happy to accept connection
 * Projected to graduate with Bachelor of Science in Computer Science & Software Engineering in Spring 2022.
 
 ## Personal
-<img align="right" width="220.4" height="330.6" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/OD2A3943_Edit.png?raw=true">
+<img class="borderimage" align="right" width="220.4" height="330.6" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/OD2A3943_Edit.png?raw=true">
 Growing up one of my hobbies that I had as a pastime was gaming, and I was involved in the clan community with the most years spent as a part of [Halo Enclave](http://haloenclave.weebly.com/). My favorite video game would be Halo Combat Evolved, while my favorite show is Smallville. Although gaming is something that I do not engage in as much as I used to, it will always be a part of my childhood.
 
 More recently, I have developed a new range of hobbies. Being a skinny kid growing up, I always wanted to become more muscular in my physique. With the outbreak of Covid and the quarantine, I used it as an opportunity to get serious about exercise and work on myself. With over a year passed, I have already gained about 20-30 lbs and will continue to improve myself every week as it raises my confidence and helps me use my mind more effectively.
