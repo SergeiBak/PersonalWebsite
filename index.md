@@ -35,21 +35,21 @@ With graduation right around the corner, I have become a lot more career oriente
 
 Below is an ongoing list of some of the projects I have worked on and chose to display. For those based in WebGL, I would recommend fullscreening for the best experience.
 
-[<img align="right" width="276.48" height="155.52" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/minigamesSmall.png?raw=true">](Minigames.html)
+[<img class="clickableimage" align="right" width="276.48" height="155.52" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/minigamesSmall.png?raw=true">](Minigames.html)
 ***Minigames Collection*** - Oct 2021 - Present   
 Ongoing Series!  
 Project: [Link](Minigames.html)  
 Brief Overview:  
 *Minigames Collection* is a collection of various minigame projects developed within the Unity Engine using C#. 
 
-[<img align="right" width="276.48" height="155.52" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/ArmedConquest.png?raw=true">](https://sergeibak.itch.io/armed-conquest)
+[<img class="clickableimage" align="right" width="276.48" height="155.52" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/ArmedConquest.png?raw=true">](https://sergeibak.itch.io/armed-conquest)
 ***Armed Conquest*** - Jun 2021 - Aug 2021  
 Detailed Overview: [Link](https://sites.uw.edu/crcs/projects/2021armed-conquest-a-sci-fi-platform-shooter/)  
 Project: [Link](https://sergeibak.itch.io/armed-conquest)  
 Brief Overview:  
 *Armed Conquest* is a sci-fi themed platformer/shooter project developed within the Unity Engine using C#. 
 
-[<img align="right" width="276.48" height="155.52" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/DroneDisowned.png?raw=true">](https://sites.google.com/uw.edu/dronedisowned/home)
+[<img class="clickableimage" align="right" width="276.48" height="155.52" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/DroneDisowned.png?raw=true">](https://sites.google.com/uw.edu/dronedisowned/home)
 ***Drone Disowned*** - Mar 2021 - Jun 2021  
 Detailed Overview: [Link](https://sites.google.com/uw.edu/dronedisowned/home)  
 Project: [Link](https://sergeibak.github.io/FinalProject385/)  
