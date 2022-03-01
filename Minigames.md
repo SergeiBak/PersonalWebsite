@@ -6,32 +6,32 @@
 ## 2048
 Oct. 2021   
 Project: [Link](2048.html)  
-[<img width="276.48" height="155.52" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/2048.png?raw=true">](https://sergeibak.github.io/PersonalWebsite/2048.html)    
+[<img class="clickableimage" width="276.48" height="155.52" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/2048.png?raw=true">](https://sergeibak.github.io/PersonalWebsite/2048.html)    
 
 ## Flappy Bird
 Dec. 2021   
 Project: [Link](FlappyBird.html)  
-[<img width="276.48" height="155.52" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/flappybird.png?raw=true">](https://sergeibak.github.io/PersonalWebsite/FlappyBird.html) 
+[<img class="clickableimage" width="276.48" height="155.52" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/flappybird.png?raw=true">](https://sergeibak.github.io/PersonalWebsite/FlappyBird.html) 
 
 ## Minesweeper
 Feb. 2022   
 Project: [Link](Minesweeper.html)  
-[<img width="276.48" height="155.52" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/Minesweeper.png?raw=true">](https://sergeibak.github.io/PersonalWebsite/Minesweeper.html)  
+[<img class="clickableimage" width="276.48" height="155.52" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/Minesweeper.png?raw=true">](https://sergeibak.github.io/PersonalWebsite/Minesweeper.html)  
 
 ## Pac-Man
 Jan. 2022   
 Project: [Link](PacMan.html)  
-[<img width="276.48" height="155.52" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/Pacman.png?raw=true">](https://sergeibak.github.io/PersonalWebsite/PacMan.html)  
+[<img class="clickableimage" width="276.48" height="155.52" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/Pacman.png?raw=true">](https://sergeibak.github.io/PersonalWebsite/PacMan.html)  
 
 ## Pong
 Dec. 2021   
 Project: [Link](pong.html)  
-[<img width="276.48" height="155.52" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/pong.png?raw=true">](https://sergeibak.github.io/PersonalWebsite/pong.html)    
+[<img class="clickableimage" width="276.48" height="155.52" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/pong.png?raw=true">](https://sergeibak.github.io/PersonalWebsite/pong.html)    
 
 ## Tetris
 Nov. 2021   
 Project: [Link](tetris.html)  
-[<img width="276.48" height="155.52" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/tetris.png?raw=true">](https://sergeibak.github.io/PersonalWebsite/tetris.html)    
+[<img class="clickableimage" width="276.48" height="155.52" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/tetris.png?raw=true">](https://sergeibak.github.io/PersonalWebsite/tetris.html)    
 
 ## Return
 Here is the [link](https://sergeibak.github.io/PersonalWebsite/) to return to the main page.
