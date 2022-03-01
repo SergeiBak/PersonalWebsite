@@ -1,7 +1,7 @@
 # *Sergei Bakharev*
 
 ## Bio
-<img align="right" width="220.4" height="330.6" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/OD2A4027_Edit.png?raw=true">
+<img class="borderimage" align="right" width="220.4" height="330.6" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/OD2A4027_Edit.png?raw=true">
 Sergei Bakharev is a CSS student at the [University of Washington](https://www.uwb.edu/) majoring in [Computer Science & Software Engineering](https://www.uwb.edu/bscsse). Previously, he was a full time [Running Start](https://www.lkstevens.wednet.edu/page/1989) student attending [Everett Community College](https://www.everettcc.edu/) for an [Associate in Arts and Sciences Direct Transfer Degree](https://www.everettcc.edu/files/programs/aas-dta-transfer-guide.pdf) during his remaining two years of [high school](https://www.lkstevens.wednet.edu/lshs). 
 
 His research interests encompass a wide range of technologies; such as game development, web design, cybersecurity, NFT's/Blockchain, and much more! He has experience developing in a multitude of languages including C++, C, C#, HTML, Assembly, and Java. Having lead multiple software development teams, Sergei takes great pride in developing quality software projects through agile, sprint based teamwork. 
