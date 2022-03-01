@@ -1,7 +1,7 @@
 # *Minesweeper*
 
 ## Description
-<img align="right" width="304.128" height="171.072" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/Minesweeper.png?raw=true">
+<img class="borderimage" align="right" width="304.128" height="171.072" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/Minesweeper.png?raw=true">
 This project is a recreation of the classic puzzle game known as Minesweeper, with its origins rooted in the 1960s. This solo project was developed in Unity using 
 C# as part of my minigames series where I utilize various resources to remake simple games in order to further my learning as well as to have fun!   
 
