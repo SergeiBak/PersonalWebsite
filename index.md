@@ -12,16 +12,16 @@ Always looking to expand connections & network, he is happy to accept connection
 
 ## Education
 
-**Lake Stevens High School** - 2017-2020
-* Graduated in Spring 2020 as an [Honor Graduate](https://sites.google.com/lkstevens.wednet.edu/lshsstudenthandbook/academics).
-* Junior & Senior year spent full time Running Start at Everett Community College.
+**University of Washington** - 2020-2022
+* Projected to graduate with Bachelor of Science in Computer Science & Software Engineering in Spring 2022.
 
 **Everett Community College** - 2018-2020
 * Graduated in Spring 2020 with [High Distinction](https://www.everettcc.edu/enrollment/registration/grades).
 * Attained Associate in Arts and Sciences Direct Transfer Degree with a 3.93 GPA.
 
-**University of Washington** - 2020-2022
-* Projected to graduate with Bachelor of Science in Computer Science & Software Engineering in Spring 2022.
+**Lake Stevens High School** - 2017-2020
+* Graduated in Spring 2020 as an [Honor Graduate](https://sites.google.com/lkstevens.wednet.edu/lshsstudenthandbook/academics).
+* Junior & Senior year spent full time Running Start at Everett Community College.
 
 ## Personal
 <img class="borderimage" align="right" width="220.4" height="330.6" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/OD2A3943_Edit.png?raw=true">
