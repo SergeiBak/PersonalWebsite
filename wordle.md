@@ -19,7 +19,7 @@ the correct position will be outlined in green, a correct letter in the wrong po
 ## Play The Game!
 To be able to full screen, follow this [link](https://sergeibak.github.io/Wordle/)   
 
-<embed type="text/html" src="https://sergeibak.github.io/Wordle/" width="500" height="610">
+
 
 ## Minigames Page
 Here is the link to return to the minigames page: [Link](https://sergeibak.github.io/PersonalWebsite/Minigames)
