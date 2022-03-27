@@ -1,4 +1,4 @@
-# *Minesweeper*
+# *Wordle*
 
 ## Description
 <img class="borderimage" align="right" width="304.128" height="171.072" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/wordle.png?raw=true">
