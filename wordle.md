@@ -23,6 +23,7 @@ To be able to full screen, follow this [link](https://sergeibak.github.io/Wordle
   <embed type="text/html" src="https://sergeibak.github.io/Wordle/" width="620" height="550">
 </p>
   
+<br>
       
 ## Minigames Page
 Here is the link to return to the minigames page: [Link](https://sergeibak.github.io/PersonalWebsite/Minigames)
