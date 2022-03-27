@@ -35,8 +35,8 @@ Project: [Link](tetris.html)
 
 ## Wordle
 Mar. 2022   
-Project: [Link](Wordle.html)  
-[<img class="clickableimage" width="276.48" height="155.52" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/wordle.png?raw=true">](https://sergeibak.github.io/PersonalWebsite/Wordle.html)    
+Project: [Link](wordle.html)  
+[<img class="clickableimage" width="276.48" height="155.52" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/wordle.png?raw=true">](https://sergeibak.github.io/PersonalWebsite/wordle.html)    
 
 ## Return
 Here is the [link](https://sergeibak.github.io/PersonalWebsite/) to return to the main page.
