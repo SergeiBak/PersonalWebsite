@@ -9,3 +9,4 @@ While you are here, consider checking out some of my project pages to see some o
 - [2048](https://github.com/SergeiBak/2048)
 - [Minesweeper](https://github.com/SergeiBak/Minesweeper)
 - [Wordle](https://github.com/SergeiBak/Wordle)
+- [Centipede](https://github.com/SergeiBak/Centipede)
