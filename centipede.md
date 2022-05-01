@@ -30,7 +30,7 @@ To be able to full screen, follow this [link](https://sergeibak.github.io/Centip
     frameborder="1" 
     marginheight="px" 
     marginwidth="340px" 
-    height="610px" 
+    height="650px" 
     width="600px">
 </iframe>
 </center>   
