@@ -33,6 +33,11 @@ Dec. 2021
 Project: [Link](pong.html)  
 [<img class="clickableimage" width="276.48" height="155.52" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/pong.png?raw=true">](https://sergeibak.github.io/PersonalWebsite/pong.html)    
 
+## Snake
+May. 2022   
+Project: [Link](Snake.html)  
+[<img class="clickableimage" width="276.48" height="155.52" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/Snake.png?raw=true">](https://sergeibak.github.io/PersonalWebsite/Snake.html)   
+
 ## Tetris
 Nov. 2021   
 Project: [Link](tetris.html)  
