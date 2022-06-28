@@ -59,7 +59,7 @@ Brief Overview:
 
 ## Contact
 
-**Email:** bakhara@uw.edu  
+**Email:** serge.bakharev9@gmail.com  
 **LinkedIn:** [Sergei Bakharev](https://www.linkedin.com/in/sergei-bakharev/)
 
 ***
