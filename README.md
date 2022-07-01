@@ -10,4 +10,5 @@ While you are here, consider checking out some of my project pages to see some o
 - [Minesweeper](https://github.com/SergeiBak/Minesweeper)
 - [Wordle](https://github.com/SergeiBak/Wordle)
 - [Snake](https://github.com/SergeiBak/Snake)
+- [Space Invaders](https://github.com/SergeiBak/Space-Invaders)
 - [Centipede](https://github.com/SergeiBak/Centipede)
