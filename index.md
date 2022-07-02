@@ -13,7 +13,7 @@ Always looking to expand connections & network, he is happy to accept connection
 ## Education
 
 **University of Washington** - 2020-2022
-* Graduated in Spring 2020 with [Baccalaureate Honors](https://www.uwb.edu/registration/graduation/honors/honors-bacc).
+* Graduated in Spring 2022 with [Baccalaureate Honors](https://www.uwb.edu/registration/graduation/honors/honors-bacc).
 * Attained Bachelor of Science in Computer Science & Software Engineering Degree with a 3.88 GPA.
 
 **Everett Community College** - 2018-2020
