@@ -15,6 +15,7 @@ waves of Invaders as possible! But beware, the less Invaders left, the faster th
 - **R**: Restart Round (If Gameover)
 - **A** or **Left Arrow**: Move left
 - **D** or **Right Arrow**: Move right
+- **M**: Toggle secret song
 
 ## Play The Game!
 To be able to full screen, follow this [link](https://sergeibak.github.io/Space-Invaders/SpaceInvadersBuild/) and click the full screen button in bottom right of WebGL Build   
