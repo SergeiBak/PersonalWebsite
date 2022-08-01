@@ -8,6 +8,11 @@ Oct. 2021
 Project: [Link](2048.html)  
 [<img class="clickableimage" width="276.48" height="155.52" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/2048.png?raw=true">](https://sergeibak.github.io/PersonalWebsite/2048.html)    
 
+## Asteroids
+Jul. 2021   
+Project: [Link](Asteroids.html)  
+[<img class="clickableimage" width="276.48" height="155.52" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/Asteroids.png?raw=true">](https://sergeibak.github.io/PersonalWebsite/Asteroids.html) 
+
 ## Centipede
 Apr. 2022   
 Project: [Link](centipede.html)  
