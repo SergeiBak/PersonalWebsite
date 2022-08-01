@@ -31,7 +31,7 @@ To be able to full screen, follow this [link](https://sergeibak.github.io/Astero
     marginheight="px" 
     marginwidth="340px" 
     height="650px" 
-    width="600px">
+    width="1024px">
 </iframe>
 </center>   
 
