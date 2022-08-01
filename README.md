@@ -11,4 +11,5 @@ While you are here, consider checking out some of my project pages to see some o
 - [Wordle](https://github.com/SergeiBak/Wordle)
 - [Snake](https://github.com/SergeiBak/Snake)
 - [Space Invaders](https://github.com/SergeiBak/Space-Invaders)
+- [Asteroids](https://github.com/SergeiBak/Asteroids)
 - [Centipede](https://github.com/SergeiBak/Centipede)
