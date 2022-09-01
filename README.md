@@ -12,4 +12,5 @@ While you are here, consider checking out some of my project pages to see some o
 - [Snake](https://github.com/SergeiBak/Snake)
 - [Space Invaders](https://github.com/SergeiBak/Space-Invaders)
 - [Asteroids](https://github.com/SergeiBak/Asteroids)
+- [Tic Tac Toe](https://github.com/SergeiBak/Tic-Tac-Toe)
 - [Centipede](https://github.com/SergeiBak/Centipede)
