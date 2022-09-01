@@ -53,6 +53,11 @@ Nov. 2021
 Project: [Link](tetris.html)  
 [<img class="clickableimage" width="276.48" height="155.52" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/tetris.png?raw=true">](https://sergeibak.github.io/PersonalWebsite/tetris.html)    
 
+## Tic Tac Toe
+Aug. 2022   
+Project: [Link](TicTacToe.html)  
+[<img class="clickableimage" width="276.48" height="155.52" src="https://github.com/SergeiBak/PersonalWebsite/blob/master/images/TicTacToe.png?raw=true">](https://sergeibak.github.io/PersonalWebsite/TicTacToe.html)    
+
 ## Wordle
 Mar. 2022   
 Project: [Link](wordle.html)  
